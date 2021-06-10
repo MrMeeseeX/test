@@ -1,0 +1,5 @@
+testfiles/1.bin md5 3fa9324641214f4b0e6ef55a6e665c64
+testfiles/2.bin sha1 9054ea0f1e581cb02d955fa7ca253117f4fe85a9
+testfiles/3.bin sha256 f18e214da44e97ffbdcac1ee35f488c360e2f3939f7cb289bdb7bacfc724cba7
+testfiles/4.bin sha256 1c4b7f2618864152558d8cad0c1342002fb9168ff00bebc62bdc580598aabc28
+testfiles/5.bin md5 1c4b7f2618864152558d8cad0c1342002fb9168ff00bebc62bdc580598aabc28

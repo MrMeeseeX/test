@@ -1,0 +1,13 @@
+<config>
+    <file
+        source_path="C:\Windows\system32"
+        destination_path="C:\Program Files"
+        file_name="kernel32.dll"
+        />
+<!--    Линукса нет, поэтому нижняя часть кода не реализована-->
+<!--    <file-->
+<!--        source_path="/var/log"-->
+<!--        destination_path="/etc"-->
+<!--        file_name="server.log"-->
+<!--        />-->
+</config>
